@@ -2,7 +2,7 @@
 
 Count of age intervals | accuracy | f1
 -- | -- | --
-2 |   |  
+2 | 84,68% | 84,67% 
 3 |   |  
 4 | 62,16% | 56,8%
 5 |   |  
