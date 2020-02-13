@@ -8,7 +8,7 @@ Count of age intervals | accuracy | f1
 5 | 60,36% | 56,78% 
 6 | 49,55% | 38,29% 
 7 | 49,55% | 40,99% 
-9 | 28,83% | 24,34%
+9 | 35,14% | 31,36%
 
 Classes | Intervals
 -- | --
