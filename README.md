@@ -1,6 +1,6 @@
 # Age Classifier
 
-Count of age intervals | acc. / f1  14.02.2020 | acc. / f1  26.04.2020 |
+Count of age intervals | acc. / f1 - 14.02.2020 | acc. / f1 - 26.04.2020 |
 -- | -- | -- 
 2 | 84,68% / 84,67% | -
 3 | 74,77% / 74,84% | -
